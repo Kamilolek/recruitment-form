@@ -7,3 +7,14 @@
 ### DONE!!!
 
 ## using
+1. open file [form.php](form.php)
+2. fill in the form
+3. submit data
+
+1. open file [show.php](show.php)
+2. use searcher or browse all data in table
+
+
+## authors
+* Kamil Augustak
+* Kacper Goncerz
