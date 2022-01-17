@@ -122,7 +122,7 @@ input[type=text],input[type=number]{
                <option value="2">Imiona alfabrtycznie</option>
                <option value="3">Nazwiska alfabrtycznie</option>
                <option value="4">Liczba punktów malejąco</option>
-               <option value="4">Liczba punktów rosnąco</option>
+               <option value="5">Liczba punktów rosnąco</option>
            </select><br>
            <input type="submit" value="Wyszukaj">
        </form>
